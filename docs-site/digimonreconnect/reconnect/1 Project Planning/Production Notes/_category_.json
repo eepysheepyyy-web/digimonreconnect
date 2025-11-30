@@ -1,0 +1,8 @@
+{
+  "label": "Production Notes",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Behind-the-scenes notes, workflow, inspiration, constraints"
+  }
+}
