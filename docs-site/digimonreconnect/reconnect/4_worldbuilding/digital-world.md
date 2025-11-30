@@ -1,7 +1,7 @@
 ---
-id: plan
-title: Project Plan
-sidebar_position: 1
+id: digital-World
+title: Digital World
+sidebar_position: 2
 ---
 
 # Digimon: ReConnect

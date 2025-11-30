@@ -1,6 +1,6 @@
 ---
-id: plan
-title: Project Plan
+id: assets-overview
+title: Assets Overview
 sidebar_position: 1
 ---
 

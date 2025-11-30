@@ -1,6 +1,6 @@
 ---
-id: plan
-title: Project Plan
+id: arcs-overview
+title: Arcs overview
 sidebar_position: 1
 ---
 

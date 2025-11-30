@@ -23,16 +23,16 @@ Below is a quick guide to each major section of the project with links for easy 
 | Section               | Summary                                                         | Link                            |
 |-----------------------|-----------------------------------------------------------------|--------------------------------|
 | **Project Planning**   | Project details, planning docs, and production notes.           | [Project Planning](category/project-planning/) |
-| - Project Plan        | Overview of the project scope and goals.                        | [Project Plan](1%20Project%20Planning/project-plan) |
+| - Project Plan        | Overview of the project scope and goals.                        | [Project Plan](project-planning/project-plan) |
 | - Production Notes    | Notes and updates on the production process.                    | [Production Notes](category/production-notes) |
-| **Series Bible**       | Background info on the story, themes, and arcs.                 | [Series Bible](series-bible/)  |
-| **Characters & Crests**| Character profiles, art sketches, crests, and Digimon partners. | [Characters & Crests](characters-crests/) |
-| **World Building**     | Details about the Real World and Digital World settings.        | [World Building](world-building/) |
-| - Real World          | The “real” world setting and details.                           | [Real World](world-building/real-world) |
-| - Digital World       | The digital/virtual world setting and lore.                     | [Digital World](world-building/digital-world) |
-| **Arcs**               | Story arcs and major plot developments.                         | [Arcs](arcs/)                  |
-| **Continuity & Timeline** | Timeline and continuity notes for the project.                | [Continuity & Timeline](continuity-timeline/) |
-| **Episodes**           | Summaries, beat sheets, scripts, and art for episodes.          | [Episodes](episodes/)          |
-| **Assets**             | Art assets, models, and resources used in production.            | [Assets](assets/)              |
+| **Series Bible**       | Background info on the story, themes, and arcs.                 | [Series Bible](category/series-bible/)  |
+| **Characters & Crests**| Character profiles, art sketches, crests, and Digimon partners. | [Characters & Crests](category/characters--crests/) |
+| **World Building**     | Details about the Real World and Digital World settings.        | [World Building](category/worldbuilding/) |
+| - Real World          | The “real” world setting and details.                           | [Real World](worldbuilding/real-world) |
+| - Digital World       | The digital/virtual world setting and lore.                     | [Digital World](worldbuilding/digital-world) |
+| **Arcs**               | Story arcs and major plot developments.                         | [Arcs](category/arcs/)                  |
+| **Continuity & Timeline** | Timeline and continuity notes for the project.                | [Continuity & Timeline](category/continuity--timeline/) |
+| **Episodes**           | Summaries, beat sheets, scripts, and art for episodes.          | [Episodes](category/episodes/)          |
+| **Assets**             | Art assets, models, and resources used in production.            | [Assets](category/assets/)              |
 
 ---

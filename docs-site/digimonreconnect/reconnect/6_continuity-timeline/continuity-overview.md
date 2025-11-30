@@ -1,6 +1,6 @@
 ---
-id: digital-World
-title: Digital World
+id: continuity-overview
+title: Continuity Overview
 sidebar_position: 1
 ---
 

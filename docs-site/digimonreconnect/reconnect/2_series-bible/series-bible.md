@@ -1,6 +1,6 @@
 ---
-id: series overview
-title: Overview & Premise
+id: series-bible
+title: Series Bible
 sidebar_position: 1
 ---
 

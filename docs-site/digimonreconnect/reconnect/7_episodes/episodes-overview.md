@@ -1,7 +1,7 @@
 ---
-id: real-world
-title: Real World
-sidebar_position: 2
+id: episodes-overview
+title: Episodes Overview
+sidebar_position: 1
 ---
 
 # Digimon: ReConnect

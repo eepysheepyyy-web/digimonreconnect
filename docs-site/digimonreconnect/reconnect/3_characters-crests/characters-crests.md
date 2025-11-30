@@ -1,6 +1,6 @@
 ---
-id: plan
-title: Project Plan
+id: characters-crests
+title: Characters & Crests
 sidebar_position: 1
 ---
 
